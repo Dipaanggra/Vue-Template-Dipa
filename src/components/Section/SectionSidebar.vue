@@ -12,6 +12,7 @@ import SidebarLink from '../Button/SidebarLink.vue'
         :name="route.name"
         :key="index"
       />
+
     </div>
   </div>
 </template>
